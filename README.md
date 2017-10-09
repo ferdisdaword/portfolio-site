@@ -11,7 +11,9 @@ The design mockup for this project is located [here](https://storage.googleapis.
 
 ## Style Guide Rules and Validators
 [Udacity HTML/CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/)
+
 [HTML Validator](https://validator.w3.org/#validate_by_input)
+
 [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 ## Tools used for this site
